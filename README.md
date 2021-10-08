@@ -9,13 +9,14 @@
 ### Who Am I
 
 
-
 * ✏ I'm a software major student at Gachon University.
 
 * 🌱 I'm currently interested in the front-end.
 
 * ❤ I value relationships.
 <br>
+<br>
+
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=hanbinchoi" height="165">
 
 ### My Favorite
@@ -26,6 +27,7 @@
 
 * 🍔 Hamburger
 
+<br>
 <br>
 
 ----------------------
