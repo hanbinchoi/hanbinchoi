@@ -1,5 +1,6 @@
-<center>I'm a Web-developer👨‍💻</center>
-
+<div align="center">
+  <strong>I'm a Web-developer👨‍</strong>
+</div>
 
 
 <!--
