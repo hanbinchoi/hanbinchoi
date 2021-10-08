@@ -5,7 +5,7 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/_hanbinchoi_/?hl=ko)
 <br>
 <br>
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=hanbinchoi" height="165">
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gksqls020">  
 ### Who Am I
 
 
@@ -16,8 +16,8 @@
 
 * ❤ I value relationships.
 <br>
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gksqls020">  
- 
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=hanbinchoi" height="165">
+
 ### My Favorite
 
 * ⚽ Football
