@@ -1,5 +1,5 @@
 # Profile
-**I'm a web-devloper, hanbinchoi😄**
+**I'm a software engineer, hanbinchoi😄**
 
 👇**contact**
 
