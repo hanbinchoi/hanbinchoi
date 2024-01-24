@@ -1,10 +1,7 @@
-# Profile
-**I'm a software engineer, hanbinchoi😄**
-
-👇**contact**
+### Contact
 
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:gksqls020@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:wkghskak@naver.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/_hanbinchoi_/?hl=ko)
 <br>
 <br>
