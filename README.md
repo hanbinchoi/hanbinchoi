@@ -9,7 +9,7 @@
 <br>
 
 
-**💪Tech Stack💪**
+### 💪Tech Stack💪
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> 
 
@@ -24,7 +24,7 @@
 
 <br>
 
-**🛠Cowork Tools🛠**
+### 🛠Cowork Tools🛠
 
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white" /> <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white" /> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" /> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" /> <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" />
 <br>
